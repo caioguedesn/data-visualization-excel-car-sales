@@ -50,7 +50,9 @@ This project was developed as part of the **IBM Data Analyst Professional Certif
 
 ## Dashboard Preview
 
-![Data Visualization with Excel](./dashboard.png)
+![Power Performance Factor](./chart1_power_performance.png)
+![Sale Price vs Resale Value](./chart2_toyota.png)
+![Retention by Manufacturer](./chart3_retention.png)
 
 ---
 
