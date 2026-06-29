@@ -50,9 +50,9 @@ This project was developed as part of the **IBM Data Analyst Professional Certif
 
 ## Dashboard Preview
 
-![Power Performance Factor](./chart1_power_performance.png)
-![Sale Price vs Resale Value](./chart2_toyota.png)
-![Retention by Manufacturer](./chart3_retention.png)
+![Power Performance Factor](./chart1_power_performance.png.png)
+![Sale Price vs Resale Value](./chart2_toyota.png.png)
+![Retention by Manufacturer](./chart3_retention.png.png)
 
 ---
 
